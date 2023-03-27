@@ -1,0 +1,21 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: rgb(44, 97, 183);
+}
+
+.search-form__btn {
+  margin-left: 5px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.photo-card {
+  margin: 5px;
+}
